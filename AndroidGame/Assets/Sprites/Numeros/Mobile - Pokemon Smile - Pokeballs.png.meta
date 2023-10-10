@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 62f5dbb22f08f64468c129941cddba64
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4065
+        width: 451
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f1064705fb764f879c51baea05e37
+      internalID: -1536901728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4069
+        width: 452
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac50b1d9e1116438d79e56d4e049a8
+      internalID: 209540225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_2
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3943
+        width: 750
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa471712aafd504dac7634fd168bfab
+      internalID: 1055743198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3290
+        width: 451
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bfc286ad9518641beb6a487fedd6bf
+      internalID: 786718019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3283
+        width: 450
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b79f66c0fe4494592415ce934457e5
+      internalID: -1135555844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3231
+        width: 748
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaee3b75a2ce4d4ebbcc2a018dc01aa
+      internalID: -1194217718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2513
+        width: 450
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd88ea19ce44e14a9b2cc3e6b1dd097
+      internalID: -1667120746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2528
+        width: 452
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69c60cb0004f043a53dae616961e80
+      internalID: -1300880337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2463
+        width: 751
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b001ca47e6c44aa8665c57d0b2586
+      internalID: 688271066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1772
+        width: 453
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba30df7be39c54c84105a5604cfdc4
+      internalID: 917180250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1778
+        width: 453
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666eb169b2335a943aff6ab75519b7e7
+      internalID: -272053841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1643
+        width: 751
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c16f3e08838442b083fa04a514766
+      internalID: -1917631954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 916
+        width: 450
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c62e084522214e83ca5e75f6ca3c0
+      internalID: -485023981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 918
+        width: 452
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb124e25d3c4114e9478fc9f53caa6a
+      internalID: 843767315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 857
+        width: 751
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76069b751a3f57c41be96d24539920a3
+      internalID: -191370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 611
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d2a4f6a1aef94e861ab9dead6c998
+      internalID: 61037372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 157
+        width: 512
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f11ffa73a1efd41b5b0a2a64e0fed2
+      internalID: 462539741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_17
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 251
+        width: 262
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408bd5151d76694aaf8da19ffa86b81
+      internalID: 1270761297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 164
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9346e2536d6ce84c9342bfefe6c89b5
+      internalID: -1130151085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 55
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e30aed3fe51c7044bec8946aa34cb8b
+      internalID: 535975332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 57
+        width: 162
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5f1cc82c3d324e94b226499e13df8
+      internalID: 509524320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 57
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83872716d15cc11408521059586b2d64
+      internalID: -1778338808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 46
+        width: 115
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f94855730f90d842ac7b2a146dd8259
+      internalID: -1714452308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 48
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da93c976346fb9f4883ceadfd9c02732
+      internalID: 1452877855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 46
+        width: 207
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0bcfeb5fea0446857850064f7a110
+      internalID: 645352446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_25
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 55
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310631f40f46b3345a8cd39ef1e15178
+      internalID: 1375064569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_26
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 49
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529569f472ac55946878bcf62b6714d3
+      internalID: 109019610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_27
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 48
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b12e0d2798aa4388cea5102a3624d
+      internalID: 1270398110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_28
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 56
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae160a8495015cb4abf5a39224baeb8f
+      internalID: -547366589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_29
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 57
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e527b14e863ac49be0d391bc7121d4
+      internalID: 516580239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_30
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 49
+        width: 172
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5fda5c7a28044e8fd108f357f7eb2
+      internalID: 660619663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_31
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 57
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb3fc6a9c4ee24db689702c4359eb3
+      internalID: -116829895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_32
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 57
+        width: 103
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee17f36ab067ea48b64e682d4ef48b8
+      internalID: -841984800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 55
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff488fb2ead85fb4eaecb855532c5bb7
+      internalID: -186827874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_34
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 57
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9994252b931c53e409ced4fb25fd8fee
+      internalID: -1092297858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5719e0fa1b4c1084e9f09ceb92348ee6
+      internalID: -2035008785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 198
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4b260b18fd6f48b92f180929f9ac9
+      internalID: -83452945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 12
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a57e332b97f94d9c1819d771fe448
+      internalID: -988904551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 151
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cab82ed1cce5344a8183668854aca9
+      internalID: -1396297246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d70d6ee48d6a545a64905c36e6c84d
+      internalID: 174031730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_40
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 12
+        width: 106
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c49d14f2deefa4c9104819118ff4e8
+      internalID: -1432453903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_41
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 12
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132a5e8728ccf8459924733cc3a9386
+      internalID: 1282475366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pokemon Smile - Pokeballs_42
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83014134b496ddf4488933acd1381afc
+      internalID: -783082678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Pokemon Smile - Pokeballs_0: -1536901728
+      Mobile - Pokemon Smile - Pokeballs_1: 209540225
+      Mobile - Pokemon Smile - Pokeballs_10: -272053841
+      Mobile - Pokemon Smile - Pokeballs_11: -1917631954
+      Mobile - Pokemon Smile - Pokeballs_12: -485023981
+      Mobile - Pokemon Smile - Pokeballs_13: 843767315
+      Mobile - Pokemon Smile - Pokeballs_14: -191370446
+      Mobile - Pokemon Smile - Pokeballs_15: 61037372
+      Mobile - Pokemon Smile - Pokeballs_16: 462539741
+      Mobile - Pokemon Smile - Pokeballs_17: 1270761297
+      Mobile - Pokemon Smile - Pokeballs_18: -1130151085
+      Mobile - Pokemon Smile - Pokeballs_19: 535975332
+      Mobile - Pokemon Smile - Pokeballs_2: 1055743198
+      Mobile - Pokemon Smile - Pokeballs_20: 509524320
+      Mobile - Pokemon Smile - Pokeballs_21: -1778338808
+      Mobile - Pokemon Smile - Pokeballs_22: -1714452308
+      Mobile - Pokemon Smile - Pokeballs_23: 1452877855
+      Mobile - Pokemon Smile - Pokeballs_24: 645352446
+      Mobile - Pokemon Smile - Pokeballs_25: 1375064569
+      Mobile - Pokemon Smile - Pokeballs_26: 109019610
+      Mobile - Pokemon Smile - Pokeballs_27: 1270398110
+      Mobile - Pokemon Smile - Pokeballs_28: -547366589
+      Mobile - Pokemon Smile - Pokeballs_29: 516580239
+      Mobile - Pokemon Smile - Pokeballs_3: 786718019
+      Mobile - Pokemon Smile - Pokeballs_30: 660619663
+      Mobile - Pokemon Smile - Pokeballs_31: -116829895
+      Mobile - Pokemon Smile - Pokeballs_32: -841984800
+      Mobile - Pokemon Smile - Pokeballs_33: -186827874
+      Mobile - Pokemon Smile - Pokeballs_34: -1092297858
+      Mobile - Pokemon Smile - Pokeballs_35: -2035008785
+      Mobile - Pokemon Smile - Pokeballs_36: -83452945
+      Mobile - Pokemon Smile - Pokeballs_37: -988904551
+      Mobile - Pokemon Smile - Pokeballs_38: -1396297246
+      Mobile - Pokemon Smile - Pokeballs_39: 174031730
+      Mobile - Pokemon Smile - Pokeballs_4: -1135555844
+      Mobile - Pokemon Smile - Pokeballs_40: -1432453903
+      Mobile - Pokemon Smile - Pokeballs_41: 1282475366
+      Mobile - Pokemon Smile - Pokeballs_42: -783082678
+      Mobile - Pokemon Smile - Pokeballs_5: -1194217718
+      Mobile - Pokemon Smile - Pokeballs_6: -1667120746
+      Mobile - Pokemon Smile - Pokeballs_7: -1300880337
+      Mobile - Pokemon Smile - Pokeballs_8: 688271066
+      Mobile - Pokemon Smile - Pokeballs_9: 917180250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

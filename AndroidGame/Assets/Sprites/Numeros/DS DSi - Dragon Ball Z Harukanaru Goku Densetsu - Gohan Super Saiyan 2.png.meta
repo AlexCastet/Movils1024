@@ -1,0 +1,2703 @@
+fileFormatVersion: 2
+guid: 64de3eb2ba75ecc4b8871fef813985ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27faa3a2bce84e418466489e773a782
+      internalID: 937595119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d664ebac50720cd479208c3f0444e46c
+      internalID: 1559770447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a6319d2bc84f4d9c4c9e7f3fb2451
+      internalID: 1193701126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff437eef0103a44ea51bc25124cd2eb
+      internalID: -1544307476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc8ac3576b2924ea58ce8e8bdf3452
+      internalID: 542947914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763cc5ad41763bc4ea2d6d7effbb84c6
+      internalID: -1806915562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 382
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79af2a96c919064bb6a594cb5a04cc9
+      internalID: 1507982596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebf4639c3e21e4db9c888ad3869a52
+      internalID: -378720219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b78da2a9149f50489f102bb9b003b9d
+      internalID: -279095014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c79d1e172af32f4abbdc4634b3ee229
+      internalID: 133043031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e48173e4202747919a0e9c1c49a26
+      internalID: 2101555306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428bcbe741dc78d46af02927b5139318
+      internalID: 411405173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59857f19508ff2c42bbca465223dba4c
+      internalID: -1790516196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac4ac6ac76f6c408e683062f271ed3
+      internalID: -115002099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0232f96b84851924c8a444653ee47a94
+      internalID: 1253940375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3312e1408c302d44962f84b5b2c6177
+      internalID: -129555705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf12f6890457184d834503258a9770e
+      internalID: -1273995156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7aa10434427eb4ab1d9cf6ba610b22
+      internalID: 2109266468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea8853152a55a2418831605e888fab8
+      internalID: -699423730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cc1dbafec481a4f94a38885c8b5c8e
+      internalID: -57485802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61d900894d823489bed5c6923017b7
+      internalID: 10100673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccab9a36b2b186a41941667326e239bc
+      internalID: 1463037744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0802aa63215a3743bcd059fd94da9f2
+      internalID: -1306400214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d063b74d464d2498db926a76be02c5
+      internalID: 441912488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b44a68bbbbc304e87f8462cf80ec16
+      internalID: 650782436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1182e00a5b59384eb5230c449d81676
+      internalID: -410598373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd411c7d400f545ac289c3c3fd5cf2
+      internalID: -2133275453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a73edaef3829a4cac692718ae9c796
+      internalID: -679182455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bd18387500de4abfd5dc7534e81d3
+      internalID: -1149591996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96812dcc8e70e924880e1995dedeea9a
+      internalID: 1670301872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8490019d4dbab42bb7acbe5ced78ab
+      internalID: -716847603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca0324d6b877a428e5e89115172e97
+      internalID: -1045533841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7cfa3c4069db64e9bdad20ae7d2856
+      internalID: -1244967612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713ca2b4b9e2154790b3f4d5ff52805
+      internalID: 1233981217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ee1197479a35498148ec8ccd8baac
+      internalID: 1755926065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dd6695f95507449f47e28dbb5eb30
+      internalID: 1624114057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4001f09692ad43bd70614d28a6082
+      internalID: -316696120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aff8c537a786343a34914708ac2422
+      internalID: -1153589246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b393d1ac3822f2498b1c1b03e639749
+      internalID: 1816021402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33c5844c0e2d44b99995d0f82c74d3
+      internalID: 257217342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47103849193328b4f8af1abdc514a403
+      internalID: 657213114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf37ed64e28eb42ae7bf51ebc045bb
+      internalID: 1187989285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25662af6ab6f88f45a447129e90481fb
+      internalID: -650400401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfae438fbb6f9c40897c84ce23c2e84
+      internalID: -519970200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5645905d86f4140bb342ef7d21343d
+      internalID: 573043092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cd4589f825bd4987a87c3f1dd9b53
+      internalID: 340046641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea68e4012ee3c489bc05ef54e44ffe
+      internalID: 1517474578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c002c3eda7f414e8146edce7a1fd27
+      internalID: -1337522077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db06f5a259c30241a3f319c9de59406
+      internalID: -1511095108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9872042b9ee30f44b8893aa6e5a368f
+      internalID: -570718891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4292a4d057914586599de53afbc17
+      internalID: 1736037414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466f0034cfe95645ba56e26601102dd
+      internalID: -1194028760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9911bcd52c16b74aa4494f479a33c25
+      internalID: 1807398931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b56f12a7b91245ab179f43ee66168
+      internalID: 1019950560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430bd601fb410a4e9e4b0ac8a5444ca
+      internalID: 681470410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abffbbdb2cbc29418980e260dc80e36
+      internalID: -1914792354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f834eb2ddd46a44ac07fd95771ac56
+      internalID: -707652155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec1cdbca69a6f448d71ff6d5ccd2c0
+      internalID: 276707744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2d74d5f4b82e408e865615701f0f1
+      internalID: -1421850274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8238eee222e4d8e47ab7f567e79e8ade
+      internalID: 1382921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af5df1dd47b8b4887804de88153f1a
+      internalID: -1972438746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf57b7327e042409cdea1b7950121d
+      internalID: -737377553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaaed31df1cf724bb2d7f75089d32cd
+      internalID: 632040538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da784fd004430264086edbc8db0d1ea1
+      internalID: 480100300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d92317971097408b92e6e97a76847
+      internalID: 791147128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0984be9edc6fc4dbabf8b35b73a1ba
+      internalID: -309683464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede337cc90b8eb045b8732f65efbb84d
+      internalID: 1492743515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23f5b2ee9d7ca42ae6302c59c20ee4
+      internalID: -556837798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb467c6bef0464b8b39bcad06c84b8
+      internalID: 249639087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d80a62d4006f48be17d098bacb283
+      internalID: -978480094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21febdf47ed384c49864e7e912210d1a
+      internalID: -12008703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eecc5670e8c93f44a26e990dd125d37
+      internalID: 1332048481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1a37db0441d64397531c0ed835d4b
+      internalID: -1356612964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2178cbb0ff7c44b5fe746fd6a11ce
+      internalID: -1119136284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ad827693c557418a2c767732cd640
+      internalID: -240714019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5412ae843b2747bfd787bffd9b16f
+      internalID: 1751877760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b261d3163950834da3312fa790f4a1c
+      internalID: -953641485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884953c3e07c2b2449cd34e2162d4bdb
+      internalID: -1882783597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078bf6a3bd0588419db17e037facc1f
+      internalID: -406090644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56ef32eaf1d8da4f910e2dba22bd624
+      internalID: -548363598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf47d24b91ee8349a32517014c53ba2
+      internalID: -2122466675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187afb0d6c184349908abbd17bcb3ec
+      internalID: -1267262549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a87821986951468937af8b9ebbcfa
+      internalID: -1749860761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ab446eb692aa4d895b53929499130
+      internalID: 1942501828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660375aeed92e443a975c9462c04502
+      internalID: 161980577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8e78243fcb164aadfb8e929e29c94
+      internalID: 890291265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2223ac89c69cf3459f2ae8c6647262d
+      internalID: -858885991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8108299021041904cb948fd3361807ba
+      internalID: 897262949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3be5d01e488874e81ed60f1f2fec79
+      internalID: 1396373606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55e0bc59c0aee49b52a9f2a8583bbe
+      internalID: -1876002282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a70694f3b05c946a7cdaa9c1e22a1e
+      internalID: -905964113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cb8614ec67cf41a0403e77a0266f9
+      internalID: -1768289328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71afb6bfc0203f642a4ad27dcda7378a
+      internalID: 1984251353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995146bfae309484599c53194310706f
+      internalID: 1001696074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5602d484c768f948a4eec16ee5ac8d4
+      internalID: 891343561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051a5bea584f4e429a9bdc451579943
+      internalID: 1876818684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc31f1dfc2e46c48b10089224c16fa4
+      internalID: -1909150585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebf25687eecc549a1a0f6784f24a98
+      internalID: -722847003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27a7fcc50b6b04491e917038a2a008
+      internalID: -1162439862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8b1ca3e88c6948bf343e1a6a91545
+      internalID: -774316473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a711ebdcb318e428ff3555b917ca71
+      internalID: -511799850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc594161d06c624495c4db3f4ee32e6
+      internalID: -544152228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a42c3e4eecca004ba9779e2e0a1bea1
+      internalID: 7172860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2eb79f7a2a7d144b32dd26714faa26
+      internalID: 1646007552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07ecfd82dec8ee4b82de157533dd509
+      internalID: 834176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8260a9a80242f4bafecb8b40e55d5a
+      internalID: 1352028314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d0ae8eca331f4ead2fc26c18ef33a
+      internalID: -17533276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9272899cbb2815e4494b2edac1267a90
+      internalID: 1538996678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c27f1deb1146b47a870c70bb4a9369
+      internalID: 1951217902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f874773938aa824a9b7ffc9c6dbfc0b
+      internalID: 1323644774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a6b042b329764a8709197ab36f92c
+      internalID: 1882192050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan
+        2_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c492884cc7080944a973a3a7cba44f8
+      internalID: -560955858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_0: 937595119
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_1: 1559770447
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_10: 2101555306
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_100: -511799850
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_101: -544152228
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_102: 7172860
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_103: 1646007552
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_104: 834176017
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_105: 1352028314
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_106: -17533276
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_107: 1538996678
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_108: 1951217902
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_109: 1323644774
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_11: 411405173
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_110: 1882192050
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_111: -560955858
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_12: -1790516196
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_13: -115002099
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_14: 1253940375
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_15: -129555705
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_16: -1273995156
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_17: 2109266468
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_18: -699423730
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_19: -57485802
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_2: 1193701126
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_20: 10100673
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_21: 1463037744
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_22: -1306400214
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_23: 441912488
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_24: 650782436
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_25: -410598373
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_26: -2133275453
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_27: -679182455
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_28: -1149591996
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_29: 1670301872
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_3: -1544307476
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_30: -716847603
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_31: -1045533841
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_32: -1244967612
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_33: 1233981217
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_34: 1755926065
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_35: 1624114057
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_36: -316696120
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_37: -1153589246
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_38: 1816021402
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_39: 257217342
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_4: 542947914
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_40: 657213114
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_41: 1187989285
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_42: -650400401
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_43: -519970200
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_44: 573043092
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_45: 340046641
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_46: 1517474578
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_47: -1337522077
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_48: -1511095108
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_49: -570718891
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_5: -1806915562
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_50: 1736037414
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_51: -1194028760
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_52: 1807398931
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_53: 1019950560
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_54: 681470410
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_55: -1914792354
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_56: -707652155
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_57: 276707744
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_58: -1421850274
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_59: 1382921279
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_6: 1507982596
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_60: -1972438746
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_61: -737377553
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_62: 632040538
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_63: 480100300
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_64: 791147128
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_65: -309683464
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_66: 1492743515
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_67: -556837798
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_68: 249639087
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_69: -978480094
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_7: -378720219
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_70: -12008703
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_71: 1332048481
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_72: -1356612964
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_73: -1119136284
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_74: -240714019
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_75: 1751877760
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_76: -953641485
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_77: -1882783597
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_78: -406090644
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_79: -548363598
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_8: -279095014
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_80: -2122466675
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_81: -1267262549
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_82: -1749860761
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_83: 1942501828
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_84: 161980577
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_85: 890291265
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_86: -858885991
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_87: 897262949
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_88: 1396373606
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_89: -1876002282
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_9: 133043031
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_90: -905964113
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_91: -1768289328
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_92: 1984251353
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_93: 1001696074
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_94: 891343561
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_95: 1876818684
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_96: -1909150585
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_97: -722847003
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_98: -1162439862
+      DS DSi - Dragon Ball Z Harukanaru Goku Densetsu - Gohan Super Saiyan 2_99: -774316473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
